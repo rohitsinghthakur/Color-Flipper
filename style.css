@@ -80,9 +80,6 @@ box-shadow: -20px -14px 20px 5px;
     border-color: #222222;
 }
 
-span{
-    font-size: 20px;
-}
 
 @media (max-width:700px) {
     .header{
@@ -91,8 +88,13 @@ span{
         align-items: center;
     }
     .page-box .color-box{
-        margin: 0 20px;
-        font-size: 25px;
+        margin: 0 20px ;
+        font-size: 20px;
 
+
+    }
+    span{
+        font-size: 19px;
+        
     }
 }
